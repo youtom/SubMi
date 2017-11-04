@@ -1,3 +1,3 @@
 # SubMe
-An automation to getting subtitles for movies and tv shows on Windows
+An automation to getting subtitles for movies and tv shows on Windows.\n
 install with setup.bat as admin. you could compile FindSubs yourself using pyinstaller.
