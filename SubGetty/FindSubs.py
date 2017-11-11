@@ -1,4 +1,4 @@
-import argparse,os,ctypes
+import argparse,os
 from Managers.OpenSubtitlesManager import OpenSubtitlesManager
 from utils import install,Messagebox,check_language
 
